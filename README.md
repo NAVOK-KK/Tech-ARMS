@@ -1,6 +1,8 @@
 # Chatty
 
-Full Stack Whatsapp Clone with Flutter, Firebase & Riverpod 2.0!
+We created a hybrid chatting app for both android & ios with Flutter, Firebase & Riverpod 2.0!
+
+In future we have planed to create a web application & desktop platform application
 
 ## Team Name
 - Tech ARMS
