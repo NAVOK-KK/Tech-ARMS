@@ -23,6 +23,10 @@ Full Stack Whatsapp Clone with Flutter, Firebase & Riverpod 2.0!
 - Seen Message
 - Replying to Messages
 - Auto Scroll on New Messages
+- Block Games
+- Memory Game
+- Chat GPT
+- Phishing Website
 
 ## Installation
 After cloning this repository, migrate to ```flutter-whatsapp-clone``` folder. Then, follow the following steps:
