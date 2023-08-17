@@ -1,16 +1,16 @@
-# WhatsApp Clone
+# Chatty
 
 Full Stack Whatsapp Clone with Flutter, Firebase & Riverpod 2.0!
 
-# Team Name
--Tech ARMS
+## Team Name
+- Tech ARMS
 
-# Team Members
-- 1) Kalaikovan P
-- 2) Gokulnath N
-- 3) Mouleeshwaran B
-- 4) Srisuryaprasanth S
-- 5) Santhosh M
+## Team Members
+-  Kalaikovan P
+-  Gokulnath N
+-  Mouleeshwaran B
+-  Srisuryaprasanth S
+-  Santhosh M
      
 ## Features
 - Phone Number Authentication
